@@ -2,20 +2,20 @@
 A basic implementation of Adobe Launch in Cordova.
 
 ## To run it...
-Clone the repo or download it locally.
+1. Clone the repo or download it locally.
 ```
 git clone https://github.com/markhicken/cordova-adobe-launch.git
 ```
 
-Open the [www/index.html](www/index.html#L39) file and update the DTM embed to use your embed code.
+2. Update the DTM/Launch embed code in [www/index.html](www/index.html#L39).
 
-Install dependencies and platforms
+3. Install dependencies and platforms
 ```
 npm i
 cordova platform add ios
 ```
 
-Run it!
+4. Run it!
 ```
 cordova run ios
 ```
