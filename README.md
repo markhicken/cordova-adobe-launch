@@ -1,5 +1,5 @@
 # cordova-adobe-launch
-A basic implementation of Adobe Launch in Cordova.
+A basic implementation of Adobe Launch in Cordova. For more information, see the associated blog post over at [hickendesign.com](https://www.hickendesign.com/site/2017/05/rock-mobile-apps-cordova-adobe-dtm-launch/).
 
 ## To run it...
 1. Clone the repo or download it locally.
